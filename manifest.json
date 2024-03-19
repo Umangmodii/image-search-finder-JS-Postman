@@ -1,0 +1,27 @@
+{
+    "name": "Image Search App",
+    "short_name": "Image Search",
+    "description": "Search and view images using the Image Search App.",
+    "icons": [
+        {
+          "src": "image/images (1).png",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/x-icon"
+        },
+        {
+          "src": "image/images (1).png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "image/images (1).png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff"
+  }
+  

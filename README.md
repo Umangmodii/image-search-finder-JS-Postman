@@ -1,5 +1,5 @@
 
-<h3> Image Search App | PWA | Bootstrap | JS | Unsplash API | RestAPI | JSON | PostmanImage Search App | PWA | Bootstrap | JS | Unsplash API | RestAPI | JSON | Postman </h3>
+<h3> Image Search App | PWA | Bootstrap | JS | Unsplash API | RestAPI | JSON | Postman </h3>
 <p>Mar 2024 - Mar 2024 </p>
 
 <hr>

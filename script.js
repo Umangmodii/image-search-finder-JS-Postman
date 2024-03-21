@@ -31,7 +31,7 @@ nextBtn.addEventListener('click', () => {
 
 async function fetchImages(query, page) {
   loadingSpinner.style.display = 'block'; // Show the loading spinner
-  const response = await fetch(`https://api.unsplash.com/search/photos?query=${query}&per_page=100&page=${page}&client_id=FO4Fc209zjPDyLLIo3RXtg12snIr8SnG7Qt450SVH3s`);
+  const response = await fetch(`https://api.unsplash.com/search/photos?query=${query}&per_page=100&page=${page}&client_id=D8J77PdFtKTVpNCPOeKs13PJmTQn2qOf-gzaOK-YosM`);
   const data = await response.json();
   displayImages(data.results);
   totalResultsElement.textContent = ``;
